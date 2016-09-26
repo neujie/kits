@@ -2,4 +2,4 @@
 * notes I want to note  
 * maybe disordered   
 * maybe wrong, maybe right too   
-` ** just for zero ** `
+ *`just for zero`* 
